@@ -56,23 +56,23 @@ A desktop weather application built with Python, Tkinter, and the OpenWeatherMap
 
 ## 🧪 What It Shows
 
--Local Time & Timezone
+- Local Time & Timezone
 
 - Weather Information:
 
--- Temperature (°C)
+- Temperature (°C)
 
--- Humidity (%)
+- Humidity (%)
 
--- Wind Speed (m/s)
+- Wind Speed (m/s)
 
 -- Pressure (hPa)
 
--- Sky Description
+- Sky Description
 
--- 5-Day Forecast at 12:00 PM
+- 5-Day Forecast at 12:00 PM
 
--- Weather Icons based on OpenWeatherMap conditions
+- Weather Icons based on OpenWeatherMap conditions
 
 ## 🖼️ Screenshots
 
