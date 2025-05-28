@@ -3,11 +3,11 @@ A desktop weather application built with Python, Tkinter, and the OpenWeatherMap
 
 ## 📌 Features
 
-= 🌍 City-based Weather Search
+- 🌍 City-based Weather Search
 
-= 🕒 Automatic Timezone Detection
+- 🕒 Automatic Timezone Detection
 
-= 🌡️ Live Weather Data (Temperature, Humidity, Wind Speed, Pressure, Description)
+- 🌡️ Live Weather Data (Temperature, Humidity, Wind Speed, Pressure, Description)
 
 - 📅 5-Day Weather Forecast
 
@@ -26,25 +26,10 @@ A desktop weather application built with Python, Tkinter, and the OpenWeatherMap
 - Networking	requests
 - Python Modules	datetime, os
 
-## 📁 Project Structure
-
-- Weather-app/
-├── Images/ → UI images and background
-│ ├── logo.png
-│ ├── Rounded Rectangle 1.png
-│ ├── ...
-│
-├── icon/ → Weather condition icons
-│ ├── 01d@2x.png
-│ ├── ...
-│
-├── main.py → Main Python application
-├── requirements.txt → Dependencies
-├── README.md → Project documentation
 
 ## 🛠️ Installation Guide
 
-###✅ Requirements
+### ✅ Requirements
 
 - Python 3.7 or higher
 
