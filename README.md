@@ -66,7 +66,7 @@ A desktop weather application built with Python, Tkinter, and the OpenWeatherMap
 
 - Wind Speed (m/s)
 
--- Pressure (hPa)
+- Pressure (hPa)
 
 - Sky Description
 
